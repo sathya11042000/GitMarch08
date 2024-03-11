@@ -5,6 +5,8 @@ public class Sample {
 		int a=12;
 		System.out.println(a);
 		
+		System.out.println("hello automation testing>>>>>");
+		
 	}
 	
 
